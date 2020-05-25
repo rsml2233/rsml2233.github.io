@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
-author:     BY
+subtitle:   第一篇博客
+date:       2020-05-25
+author:     rsml2233
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:

@@ -12,7 +12,7 @@ github_repo: "https://github.com/rsml2233/rsml2233.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Talk is cheap, show me your code!"
-sidebar-avatar: /img/千夜.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/senya.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
